@@ -18,3 +18,5 @@ I'm some dude who gets the urge to develop a new kinda-useless application whene
 ### Currently working on 😎
 🛏️ [An app which helps you manage a polyphasic sleep schedule](https://github.com/scarcheek/SleepScheduler)<br>
 📻 [A Discord Rich Presence tool to share your currently-listened-to youtube song](https://github.com/scarcheek/DiscordRadio)<br>
+
+*Yoinked the layout from [Lancear](https://github.com/Lancear). Go give him a visit aswell <3*
