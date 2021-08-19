@@ -4,7 +4,7 @@ I'm simply a guy who likes coding and being creative! I just finished the HTL Vi
 ### The programming languages I use 🧙‍♂️
 ![JavaScript (proficient)](https://img.shields.io/static/v1?label=JavaScript&logo=JavaScript&logoColor=eeeeee&message=proficient&color=blue&style=for-the-badge)
 ![HTML/CSS (proficient)](https://img.shields.io/static/v1?label=HTML%2fCSS&logo=HTML5&logoColor=eeeeee&message=proficient&color=blue&style=for-the-badge)
-![Flutter (advanced)](https://img.shields.io/static/v1?label=Flutter&logo=Flutter&logoColor=eeeeee&message=advanced&color=blue&style=for-the-badge)
+![Flutter (advanced)](https://img.shields.io/static/v1?label=Flutter&logo=Flutter&logoColor=eeeeee&message=advanced&color=green&style=for-the-badge)
 ![Java (advanced)](https://img.shields.io/static/v1?label=Java&logo=Java&logoColor=eeeeee&message=advanced&color=green&style=for-the-badge)
 ![C# (advanced)](https://img.shields.io/static/v1?label=C%23&logo=C-Sharp&logoColor=eeeeee&message=advanced&color=green&style=for-the-badge)
 ![C/C++ (familiar)](https://img.shields.io/static/v1?label=C%2fC%2b%2b&logo=C%2b%2b&logoColor=eeeeee&message=familiar&color=yellowgreen&style=for-the-badge)
