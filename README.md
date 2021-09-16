@@ -11,7 +11,7 @@ I'm some dude who gets the urge to develop a new kinda-useless application whene
 ![PHP (familiar)](https://img.shields.io/static/v1?label=PHP&logo=PHP&logoColor=eeeeee&message=familiar&color=yellowgreen&style=for-the-badge)
 
 ### Apart from programming I like 👍
-🎮 I enjoy getting an adrenaline rush games like ULTRAKILL or DOOM, but I also love to just play any game that comes to mind, really.<br>
+🎮 I like playing competetive as well as super chill games so hmu if you wanna play sometime.<br>
 🚴‍♀️ I go for bike trips every once in a while... So that's a thing!<br>
 🤷‍♂️ Yeah I guess i don't really do that many things. Oh yeah, i like to hang out with friend alot!
 
