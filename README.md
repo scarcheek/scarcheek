@@ -10,12 +10,15 @@ I'm some dude who gets the urge to develop a new kinda-useless application whene
 ![C/C++ (familiar)](https://img.shields.io/static/v1?label=C%2fC%2b%2b&logo=C%2b%2b&logoColor=eeeeee&message=familiar&color=yellowgreen&style=for-the-badge)
 ![PHP (familiar)](https://img.shields.io/static/v1?label=PHP&logo=PHP&logoColor=eeeeee&message=familiar&color=yellowgreen&style=for-the-badge)
 
-### Apart from programming I like 👍
+### Apart from programming I do 👍
 🎮 I like playing competetive as well as super chill games so hmu if you wanna play sometime.<br>
-🚴‍♀️ I go for bike trips every once in a while... So that's a thing!<br>
-🤷‍♂️ Yeah I guess i don't really do that many things. Oh yeah, i like to hang out with friend alot!
+🚴‍♀️ I go for bike trips every once in a while!<br>
+🚑 I'm a passionate paramedic and tend to sometimes save lifes... but most of the time its just driving old people around
 
 ### Currently working on 🤠
+Most of the time when I do private projects I work together with my buddy [Lancear](https://github.com/Lancear)!
+This includes, but is not limited to these projects we ¿kinda? still work on:
+
 🛏️ [An app which helps you manage a polyphasic sleep schedule](https://github.com/scarcheek/SleepScheduler)<br>
 📻 [A Discord Rich Presence tool to share your currently-listened-to youtube song](https://github.com/scarcheek/DiscordRadio)<br>
 
