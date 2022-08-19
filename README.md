@@ -19,7 +19,7 @@ I'm some dude who gets the urge to develop a new kinda-useless application whene
 Most of the time when I do private projects I work together with my buddy [Lancear](https://github.com/Lancear)!
 This includes, but is not limited to these projects we ¿kinda? still work on:
 
-🛏️ [An app which helps you manage a polyphasic sleep schedule](https://github.com/scarcheek/SleepScheduler)<br>
-📻 [A Discord Rich Presence tool to share your currently-listened-to youtube song](https://github.com/scarcheek/DiscordRadio)<br>
+🛏️ [An app which helps you manage a polyphasic sleep schedule](https://github.com/Discord-Radio-Devs/PolySleeper)<br>
+📻 [A Discord Rich Presence tool to share your currently-listened-to youtube song](https://github.com/Discord-Radio-Devs/DiscordRadio)<br>
 
 *Yoinked the layout from [Lancear](https://github.com/Lancear). Tell him I said hi 😊*
