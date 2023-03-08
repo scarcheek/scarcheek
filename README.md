@@ -1,5 +1,5 @@
 ### Griaß enk! 👋
-I'm some dude who gets the urge to develop a new kinda-useless application whenever I feel the need to! I just finished the HTL Villach, a secondary high school focused on software engineering, and am now looking forward to doing my civil service for Red Cross.
+I'm some dude who gets the urge to develop a new kinda-useless application whenever I feel the need to! I just finished the HTL Villach, a secondary high school focused on software engineering. Now I challenge myself in the fields of Artificial Intelligence and see how fast I can fail it.
 
 ### The programming languages I use 🐱‍💻
 ![JavaScript (proficient)](https://img.shields.io/static/v1?label=JavaScript&logo=JavaScript&logoColor=eeeeee&message=proficient&color=blue&style=for-the-badge)
@@ -21,5 +21,10 @@ This includes, but is not limited to these projects we ¿kinda? still work on:
 
 🛏️ [An app which helps you manage a polyphasic sleep schedule](https://github.com/Discord-Radio-Devs/PolySleeper)<br>
 📻 [A Discord Rich Presence tool to share your currently-listened-to youtube song](https://github.com/Discord-Radio-Devs/DiscordRadio)<br>
+❓ [A mystery project that has yet to see the light of day]()
+
+### How to contact me 🗿
+Feel free to hit me up if you have any interest in starting a project together or just hanging out.
+You can contact me on discord under: `Scar#5966`
 
 *Yoinked the layout from [Lancear](https://github.com/Lancear). Tell him I said hi 😊*
