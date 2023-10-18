@@ -25,6 +25,6 @@ This includes, but is not limited to these projects we ¿kinda? still work on:
 
 ### How to contact me 🗿
 Feel free to hit me up if you have any interest in starting a project together or just hanging out.
-You can contact me on discord under: `Scar#5966`
+You can contact me on discord under: `scarcheek`
 
 *Yoinked the layout from [Lancear](https://github.com/Lancear). Tell him I said hi 😊*
