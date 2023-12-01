@@ -1,5 +1,5 @@
 ### Griaß enk! 👋
-I'm some dude who gets the urge to develop a new kinda-useless application whenever I feel the need to! I just finished the HTL Villach, a secondary high school focused on software engineering. Now I challenge myself in the fields of Artificial Intelligence and see how fast I can fail it.
+Im currently studying Computer Science at the Johannes Kepler University in Austria which means personal projects are falling behind while i fumble my way into the bachelors degree 
 
 ### The programming languages I use 🐱‍💻
 ![JavaScript (proficient)](https://img.shields.io/static/v1?label=JavaScript&logo=JavaScript&logoColor=eeeeee&message=proficient&color=blue&style=for-the-badge)
